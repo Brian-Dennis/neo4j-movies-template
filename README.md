@@ -225,3 +225,7 @@ To add a new API endpoint there are 3 steps:
 1. Create a new Flask-RESTful resource class
 2. Create an endpoint method including the swagger docs decorator.
 3. Add the new resource to the API at the bottom of the file.
+
+## Authors
+
+* **Brian Dennis** - *Initial work* - [Brian-Dennis](https://github.com/Brian-Dennis)
